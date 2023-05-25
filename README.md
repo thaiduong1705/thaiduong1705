@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thaiduong1705
 - 👀 I’m interested in basketball, guitar
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS, React, Python
 
 
 <!---
