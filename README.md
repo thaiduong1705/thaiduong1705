@@ -81,7 +81,7 @@ Full-featured cosmetic storefront with multi-gateway payment and 3PL integration
 | 🎓 Education | 📝 English | 💼 Experience |
 |:---:|:---:|:---:|
 | UIT — Software Engineering | TOEIC L&R 830/990 | Software Engineer @ AIPower |
-| GPA 8.4/10 · Top 15% | S&W 320/400 | Jun 2024 – Present |
+| GPA 8.16/10 | S&W 320/400 | Jun 2024 – Present |
 
 </div>
 
